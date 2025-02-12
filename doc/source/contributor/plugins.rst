@@ -40,6 +40,7 @@ The following is a list of projects that are an OpenStackClient plugin.
 - python-watcherclient
 - python-zaqarclient
 - python-zunclient
+- python-draasclient
 
 \*\* Project contains advanced network services.
 
